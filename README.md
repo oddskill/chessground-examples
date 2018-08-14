@@ -1,33 +1,47 @@
 ## Synopsis
 
-Simple examples that show some basic usage of chessground https://github.com/ornicar/chessground ,
-including usage of chess.js https://github.com/jhlywa/chess.js and garbochess https://github.com/glinscott/Garbochess-JS
+Simple examples that show some basic usage of [chessground](https://github.com/ornicar/chessground),
+including usage of [chess.js](https://github.com/jhlywa/chess.js) and [garbochess](https://github.com/glinscott/Garbochess-JS)
 
-Example1: Initialize chessground instance. <a href="https://oddskill.github.io/chessground-examples/example1/index.html" target="_blank">Demo Example1</a>
+1. Initialize chessground instance.
+[Demo](https://oddskill.github.io/chessground-examples/example1/index.html)
+[Source](/example1)
 
-Example2: Initialize chessground instance by FEN string. <a href="https://oddskill.github.io/chessground-examples/example2/index.html" target="_blank">Demo Example2</a>
+1. Initialize chessground instance by FEN string.
+[Demo](https://oddskill.github.io/chessground-examples/example2/index.html)
+[Source](/example2)
 
-Example3: chessground Math.random vs Math.random example. <a href="https://oddskill.github.io/chessground-examples/example3/index.html" target="_blank">Demo Example3</a>
+1. chessground Math.random vs Math.random example.
+[Demo](https://oddskill.github.io/chessground-examples/example3/index.html)
+[Source](/example3)
 
-Example4: chessground garbochess vs garbochess example. <a href="https://oddskill.github.io/chessground-examples/example4/index.html" target="_blank">Demo Example4</a>
+1. chessground garbochess vs garbochess example.
+[Demo](https://oddskill.github.io/chessground-examples/example4/index.html)
+[Source](/example4)
 
-Example5: Same as Example 4 but using 3d pieces. <a href="https://oddskill.github.io/chessground-examples/example5/index.html" target="_blank">Demo Example5</a>
+1. Same as Example 4 but using 3d pieces.
+[Demo](https://oddskill.github.io/chessground-examples/example5/index.html)
+[Source](/example5)
 
 ## Installation
 
+```
 npm install
+```
 
 ## Build
 
+```
 gulp
+```
 
-##Credits
+## Credits
 
-Credits go to
+Credits go to:
 
-chessground https://github.com/ornicar/chessground
-chess.js https://github.com/jhlywa/chess.js
-garbochess https://github.com/glinscott/Garbochess-JS
+- [chessground](https://github.com/ornicar/chessground)
+- [chess.js](https://github.com/jhlywa/chess.js)
+- [garbochess](https://github.com/glinscott/Garbochess-JS)
 
 ## License
 
